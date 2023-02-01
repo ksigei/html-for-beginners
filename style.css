@@ -1,0 +1,15 @@
+/* body {
+    background-color: black;
+    color: aqua;
+} */
+
+h2 {
+    color: crimson;
+}
+
+#color_blue {
+    color: chartreuse;
+}
+.color_blue {
+    color: rgb(255, 0, 191);
+}
